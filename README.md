@@ -5,7 +5,6 @@
 | AUTO_UPGRADE_FILL_RATE | true / false | ( On / Off ) Tính năng tự động nâng cấp Fill Rate                          |
 | LEVEL_UPGRADE | 7            | Level nâng cấp đến                                                         |
 | AUTO_TASK | true / false | ( On / Off ) Tính năng tự động làm nhiệm vụ                                |
-| AUTO_WRITE_ERROR | true / false | ( On / Off ) Tính năng ghi log lỗi ra file error.txt                                    |
 | AUTO_SEND_ERROR_TELEGRAM | true / false | ( On / Off ) Tính năng gửi thông báo lỗi sang telegram channel                          |
 | USER_AGENT |  | User agent fake thông tin thiết bị                                                      |
 | AUTO_STOP_PROCESS | true / false | ( On / Off ) Tính năng tự động dừng script khi call API lỗi quá 10 lần                  |
